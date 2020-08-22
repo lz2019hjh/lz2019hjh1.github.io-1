@@ -1,18 +1,18 @@
 # Site settings
-title: lz2019hjh Blog
-SEOTitle: 胡锦浩的博客 | lz2019hjh Blog
+title: lz2019's blog
+SEOTitle: lz2019's blog | 丽泽2019博客
 header-img: img/post-bg-desk.jpg
-email: 3200985003@qq.com
-description: "Every failure is leading towards success."
+email: lz2019hjh@outlook.com
+description: "Lize did't have the least homework in Jinhua"
 keyword: "胡锦浩,lz2019hjh,lz2019hjh blog,hjh"
-url: "https://lz2019hjh.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/lz2019hjh/lz2019hjh.github.io.git" # you code repository
+url: "https://lz2019hjh1.github.io"          # your host, for absolute URL
+baseurl: "Lize did't have the least homework in Jinhua"      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/lz2019hjh1/lz2019hjh1.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "明天要做更好的自己"
-sidebar-avatar: /img/about-lz2019hjh-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Lize did't have the least homework in Jinhua"
+sidebar-avatar: /img/logo-lz.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -74,9 +74,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 053261cb6e19f25a0368                            #生成的clientID
   clientSecret: 010762d01d56d7dd7d007e11ff33e5ba15674c99    #生成的clientSecret
-  repo: lz2019hjh.github.io    #仓库名称
-  owner: lz2019hjh    #github用户名
-  admin: lz2019hjh
+  repo: lz2019hjh1.github.io    #仓库名称
+  owner: lz2019hjh1    #github用户名
+  admin: lz2019hjh1
   distractionFreeMode: false #是否启用类似FB的阴影遮罩
 
 # 统计
