@@ -6,7 +6,7 @@ email: lz2019hjh@outlook.com
 description: "Lize did't have the least homework in Jinhua"
 keyword: "丽泽,丽泽书院"
 url: "https://lz2019hjh1.github.io"          # your host, for absolute URL
-baseurl: "Lize did't have the least homework in Jinhua"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lz2019hjh1/lz2019hjh1.github.io.git" # you code repository
 
 # Sidebar settings
